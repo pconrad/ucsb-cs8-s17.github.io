@@ -9,9 +9,9 @@
 {% for hw in site.lectures %}
 
 <tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
-  <td class="lect_num"  ><a href="{{hw.pdfurl}}" data-ajax="false">{{ hw.num }}</a></td>
-  <td class="lect_ready">{{hw.ready}}</td>
-  <td class="lect_desc" >{{hw.desc }}</td>
+  <td class="simlifiedhw_num"  ><a href="{{hw.pdfurl}}" data-ajax="false">{{ hw.num }}</a></td>
+  <td class="simlifiedhw">{{hw.ready}}</td>
+  <td class="simlifiedhw_desc" >{{hw.desc }}</td>
 </tr>
 
 {% if hw.last_before %}
