@@ -6,7 +6,7 @@
   <th class="asn_desc" >description</th>
 </tr>
 
-{% for hw in site.lectures %}
+{% for hw in site.hw %}
 
 <tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
   <td class="simlifiedhw_num"  ><a href="{{hw.pdfurl}}" data-ajax="false">{{ hw.num }}</a></td>
