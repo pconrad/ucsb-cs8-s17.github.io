@@ -29,13 +29,13 @@ challenging. We hope that will not be the case in future labs!</p>
  <h3>Step 0: Select a lab partner</h3>
  <p>Refer to your responses to question 1 of Hw0: "What of the following things have you done before?"</p>
  <ul>
-    <li>If you circled just "a" and/or "b" then we consider you a relative beginner, and we think that you
-    should select a partner who is also a beginner like yourself.</li>
-    <li>If you circled "c" and/or "d" then we think you should select a partner who is a bit more
-    experienced, like we consider you to be.</li>
-    <li>No more than one student each lab is allowed to work without a partner, and only then if
+    <li><p>If you circled just "a" and/or "b" then we consider you a relative beginner, and we think that you
+    should select a partner who is also a beginner like yourself.</p></li>
+    <li><p>If you circled "c" and/or "d" then we think you should select a partner who is a bit more
+    experienced, like we consider you to be.</p></li>
+    <li><p>No more than one student each lab is allowed to work without a partner, and only then if
     there is not an even number of students in the lab. The TAs will ensure that any such lone
-    worker has circled "c" and/or "d" in response to that experience question.</li>
+    worker has circled "c" and/or "d" in response to that experience question.</p></li>
  </ul>
  <p>Does your experience match the person with whom you are currently paired? Do you both want to
     work with each other? If the answer is no to either of those questions, then look around to find
@@ -58,7 +58,9 @@ challenging. We hope that will not be the case in future labs!</p>
  <p>If either of you have arrived at your lab session without ever logging:</p>
  <ul>
    <li>Stay logged into whichever account you are using now. If none, then a TA can log onto a
-       different computer, and provide a web browser for you to use to fill out
+       different computer, and provide a web 
+       
+       owser for you to use to fill out
        the form necessary to create the account. Go to the following link to do so:
        <br><a href="https://accounts.engr.ucsb.edu/create/">https://accounts.engr.ucsb.edu/create</a>
    </li>
