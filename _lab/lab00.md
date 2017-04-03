@@ -60,7 +60,7 @@ challenging. We hope that will not be the case in future labs!</p>
    <li>Stay logged into whichever account you are using now. If none, then a TA can log onto a
        different computer, and provide a web browser for you to use to fill out
        the form necessary to create the account. Go to the following link to do so:
-       <br><dd><a href="https://accounts.engr.ucsb.edu/create/">https://accounts.engr.ucsb.edu/create/</a>
+       <br><a href="https://accounts.engr.ucsb.edu/create/">https://accounts.engr.ucsb.edu/create</a>
    </li>
    <li>Once you create the account, it may take several minutes before the account is active.</li>
    <li>After waiting 5-10 minutes, try logging in.</li>
@@ -131,7 +131,7 @@ Are you sure you want to continue connecting (yes/no)?</pre>
  <p><strong>Again, don't worry if nothing appears on the screen while you are typing
  your password.</strong></p>
  <p>If it worked, you'll see something like this:</p>
- <pre>mikec@csil.cs.ucsb.edu's password: 
+ <pre>jimbo@csil.cs.ucsb.edu's password: 
 Last login: Tue Dec 30 12:27:04 2014 from linux32.engr.ucsb.edu
 
 Welcome to Computer Science's Remote Access server -- csil.cs.ucsb.edu
