@@ -21,7 +21,7 @@ title: CS8, Spring 2017, zmatni
 
 <div data-role="collapsible" data-collapsed="false">
 <h2 id="lecture_notes">Homework:</h2>
-{% include lecnot_table.html %}
+{% include simplifiedhw_table.html %}
 </div>
 
 <div data-role="collapsible" data-collapsed="false">
