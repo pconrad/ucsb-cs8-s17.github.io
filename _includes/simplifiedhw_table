@@ -1,0 +1,22 @@
+<table class="asn_table">
+
+<tr>
+  <th class="asn_num"  >num</th>
+  <th class="asn_ready">ready?</th>
+  <th class="asn_desc" >description</th>
+</tr>
+
+{% for hw in site.lectures %}
+
+<tr class={% if hw.ready %}"ready"{% else %}"not-ready"{% endif %} >
+  <td class="lect_num"  ><a href="{{hw.pdfurl}}" data-ajax="false">{{ hw.num }}</a></td>
+  <td class="lect_ready">{{hw.ready}}</td>
+  <td class="lect_desc" >{{hw.desc }}</td>
+</tr>
+
+{% if hw.last_before %}
+<tr><th colspan="5">{{hw.last_before}}</th></tr>
+{% endif %}
+
+{% endfor %}
+</table>
