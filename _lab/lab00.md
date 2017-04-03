@@ -331,7 +331,8 @@ you may leave early, but only after you are sure that nobody needs your help.</p
 
  <hr>
  <a name="problem">
-	 <h4>If your account doesn't work:</h4>
+
+<h3>If your account doesn't work:</h3>
  </a>
  <p>If you try to create a College of Engineering account, and it doesn't work, then
   send email to support@cs.ucsb.edu. In your email, </p>
