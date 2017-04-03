@@ -280,9 +280,9 @@ Make sure you type "Copied by:" exactly as shown, including capitalization.</p>
  Note that your account must work to get credit.  If your account
  does not work, you must go to CSIL later to turn in the lab.</p>
 <p>Type the following at the prompt:</p>
-<pre>turnin Lab00@cs8c lab00</pre>
+<pre>turnin Lab00@cs8 lab00</pre>
 <p>Careful: that's an uppercase 'L' at the start, and lowercase 'l' later, and the class
- name is "cs8c" for the MW (Costanzo) section. You should be asked if you want to turn in
+ name is "cs8". You should be asked if you want to turn in
  this file. Respond &quot;yes&quot;, and then you should get a message indicating that your
  efforts were successful!</p>
 
@@ -318,10 +318,8 @@ In fact, you should do this every time you walk away from a lab computer, either
  <p>You should try to complete this assignment by the end of the lab section.
   This first lab, however, will be accepted late without penalty from students who register for
   the class late, or anyone who needs extra help.</p>
-<p><strong>Deadline for after-lab submission: Sunday, April 9 (11:59pm).</strong>
- Remember this deadline is lax for the first lab only. Later labs must be completed the
- same day they occur, and attendance in-lab usually is mandatory to receive any lab credit beyond
- homework points.</p>
+<p><strong>Deadline for after-lab submission: Friday, April 7 (11:59pm).</strong>
+ Remember: attendance in-lab is mandatory to receive any lab credit.</p>
  
 <hr>
 <blockquote>
