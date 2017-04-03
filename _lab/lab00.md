@@ -143,10 +143,11 @@ You may run your graphically intensive programs on specific workstations in CSIL
 -bash-4.2$</pre>
 
 <p>Now we know that you can connect to CSIL.
-<table border="1" cellpadding="4" bgcolor="yellow"><tr><td>
+
+<table border="1" cellpadding="4" bgcolor="yellow"><tbody><tr><td>
    Get your TA's attention so he/she can verify you are logged into CSIL. And turn
    in Hw0 at this time too.
-</td></tr></table>
+   </td></tr></tbody></table>
 
 Then exit from the session on CSIL by typing the word <strong>exit</strong>,
  like this:</p>
