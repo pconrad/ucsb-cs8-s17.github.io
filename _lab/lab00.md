@@ -2,7 +2,7 @@
 layout: lab
 num: lab00
 ready: true
-desc: "Lab00"
+desc: "Lab00 - A gentle introduction"
 assigned: 2017-04-04 08:00:00.00-7
 due: 2017-04-05 19:00:00.00-7
 ---
