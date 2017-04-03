@@ -51,6 +51,10 @@ collections:
   lectures:
     output: true
     permalink: /lectures/:path/
+  hw:
+    output: true
+    permalink: /hw/:path/
+
 
 defaults:
   -
