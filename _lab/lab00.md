@@ -31,8 +31,9 @@ challenging. We hope that will not be the case in future labs!</p>
  <ul>
     <li><p>If you circled just "a" and/or "b" then we consider you a relative beginner, and we think that you
     should select a partner who is also a beginner like yourself.</p></li>
-    <li><p>If you circled "c" and/or "d" then we think you should select a partner who is a bit more
-    experienced, like we consider you to be.</p></li>
+    
+    <li><p>If you circled "c" and/or "d" then we think you should either work by yourself for this lab OR you can select a partner who is a bit more experienced, like we consider you to be.</p></li>
+    
     <li><p>No more than one student each lab is allowed to work without a partner, and only then if
     there is not an even number of students in the lab. The TAs will ensure that any such lone
     worker has circled "c" and/or "d" in response to that experience question.</p></li>
