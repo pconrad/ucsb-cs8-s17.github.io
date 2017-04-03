@@ -19,6 +19,7 @@ due: 2017-04-07 23:59:59.00-7
 </ul>
  <p>Additionally, most of you will have a lab partner to share lab and
  some other duties during the rest of the quarter.</p>
+ 
  <p>This assignment is designed to make sure you are comfortable working in the 
 computing environment and know how to submit your work. It is mostly about
 mechanics, not concepts. As a result, this assignment is not particularly intellectually
@@ -34,9 +35,8 @@ challenging. We hope that will not be the case in future labs!</p>
     
     <li><p>If you circled "c" and/or "d" then we think you should either work by yourself for this lab OR you can select a partner who is a bit more experienced, like we consider you to be.</p></li>
     
-    <li><p>No more than one student each lab is allowed to work without a partner, and only then if
-    there is not an even number of students in the lab. The TAs will ensure that any such lone
-    worker has circled "c" and/or "d" in response to that experience question.</p></li>
+    <li><p>This lab REQUIRES you to partner up if you are a relative beginner, but does NOT require you to partner with someone if you are slightly more experienced. Other labs will REQUIRE EVERYONE to partner up, so please be aware of that. In such parner-required labs, no more than one student each lab is allowed to work without a partner, and only then if
+    there is not an even number of students in the lab.</p></li>
  </ul>
  <p>Does your experience match the person with whom you are currently paired? Do you both want to
     work with each other? If the answer is no to either of those questions, then look around to find
@@ -45,7 +45,7 @@ challenging. We hope that will not be the case in future labs!</p>
     to do it quickly. You can refer to responses to question 2, "What type of computer/system(s) do
     you have?" if that matters to you. Research also shows that lab partners are best matched by
     gender, but we leave that decision to you too.</p>
- <p>We expect you to keep the partner you select today to work with in future labs. Please inform us if
+ <p>If you select a partner today, we expect you to keep that partner to work with in future labs. Please inform us if
     you make any changes later.</p>
  <p>Before proceeding to Step 1, fill in your partner's name and CoE username (if available) in
     response to question 4 of Hw0.'</p>
