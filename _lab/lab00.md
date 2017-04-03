@@ -142,14 +142,14 @@ Welcome to Computer Science's Remote Access server -- csil.cs.ucsb.edu
 You may run your graphically intensive programs on specific workstations in CSIL.
 -bash-4.2$</pre>
 
-<p>Now we know that you can connect to CSIL.
+<p>Now we know that you can connect to CSIL.</p>
 
 <table bgcolor="lightcyan" border="1" cellpadding="4"><tbody><tr><td>
    Get your TA's attention so he/she can verify you are logged into CSIL. And turn
    in Hw0 at this time too.
 </td></tr></tbody></table>
 
-Then exit from the session on CSIL by typing the word <strong>exit</strong>,
+<p>Then exit from the session on CSIL by typing the word <strong>exit</strong>,
  like this:</p>
  <pre>-bash-4.2$ <strong>exit</strong>
 logout
