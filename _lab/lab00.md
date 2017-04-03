@@ -352,5 +352,4 @@ you may leave early, but only after you are sure that nobody needs your help.</p
  <hr>
  <p>Copyright 2009, Phillip T. Conrad, CS Dept, UC Santa Barbara. Permission to copy
   for non-commercial, non-profit, educational purposes granted, provided appropriate
-  credit is given;  all other rights reserved. Adapted by Ziad Matni for this quarter.</p>
-</div>
+  credit is given;  all other rights reserved. Adapted by Ziad Matni and Mike Castano for this quarter.</p>
