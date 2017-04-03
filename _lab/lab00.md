@@ -145,8 +145,8 @@ You may run your graphically intensive programs on specific workstations in CSIL
 <p>Now we know that you can connect to CSIL.</p>
 
 <table bgcolor="yellow" border="1" cellpadding="4"><tbody><tr><td>
-   Get your TA's attention so he/she can verify you are logged into CSIL. And turn
-   in Hw0 at this time too.
+   <strong>Get your TA's attention so he/she can verify you are logged into CSIL. And turn
+   in Hw0 at this time too.</strong>
 </td></tr></tbody></table>
 
 <p>Then exit from the session on CSIL by typing the word <strong>exit</strong>,
