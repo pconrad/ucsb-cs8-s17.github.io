@@ -13,6 +13,8 @@ Office: SSMS 4409<br/><br/>
 
 * **Lecture**: Tue. and Thu. 3:30-4:45pm BUCHN 1920, ATTENDANCE REQUIRED.
 * **Instructor Office Hours**: T 10:00am-12:00pm, SSMS 4409<br/><br/>
+
+* **Piazza Site**: (piazza.com/ucsb/spring2017/cs8)</br>
 * **TAs**:<br/>
 Shiyu Ji <shiyu@umail.ucsb.edu><br/>
 Mahnaz Koupaee <koupaee@umail.ucsb.edu><br/>
