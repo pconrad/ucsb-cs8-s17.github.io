@@ -22,7 +22,7 @@ Sourav Medya <medya@umail.ucsb.edu><br/>
 Zhongqi Yi (Grader) <zhongqi_yi@umail.ucsb.edu><br/>
 
 * **Lab**: (50 minute sections)<br/>
-Wed. starting at 8am, 9am, 10am, PHELP 3525, ATTENDANCE MANDATORY.<br/>
+Wed. starting at 3pm, 4pm, 5pm, 6pm, PHELP 3525, ATTENDANCE MANDATORY.<br/>
 * **TA Office Hours**: See full syllabus for details. <br/>
 * **Instructor's Policies**: See full syllabus for details.<br/>
 
