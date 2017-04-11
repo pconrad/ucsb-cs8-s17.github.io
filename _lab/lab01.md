@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab01
-ready: false
+ready: true
 desc: "Lab01 - Starting with Python and IDLE"
 assigned: 2017-04-12 08:00:00.00-7
 due: 2017-04-14 23:59:59.00-7
