@@ -36,12 +36,14 @@ The navigator gets a chair and sits next to the pilot.</p>
 <p>Log onto the pilot's account. If the pilot's account is not working, 
 allow the navigator to log in instead.  
 Navigate using "cd" to get to your cs8 directory, and use "mkdir" to create
-a new directory lab01. Then navigate into the lab01 directory, and open IDLE:
-<pre>-bash-4.2$ <b>cd cs8</b>
+a new directory lab01. Then navigate into the lab01 directory, and open IDLE:</p>
+<pre>
+-bash-4.2$ <b>cd cs8</b>
 -bash-4.2$ <b>mkdir lab01</b>
 -bash-4.2$ <b>cd lab01</b>
--bash-4.2$ <b>idle3</b></pre>
-Leave the IDLE window open to use in later steps. But first some paper work to do.</p>
+-bash-4.2$ <b>idle3</b>
+</pre>
+<p> Leave the IDLE window open to use in later steps. But first some paper work to do.</p>
 
 <h3>Step 3: Writing expressions in Python</h3>
 <em>On a piece of paper</em>, write the following items as expressions in Python.
