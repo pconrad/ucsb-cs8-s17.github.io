@@ -141,7 +141,6 @@ list of files you are turning in), and then <em>wait for the message indicating 
 <h2>Evaluation and Grading</h2>
 Each student must accomplish the following to earn full credit for this lab:
  <ul>
-   <li>Turn in a complete and accurate Hw1.</li>
    <li>lab01.py is saved in original pilot's ~/cs8/lab01/ directory, and it works properly.</li>
    <li>ONLY IF STEP 6a IS NECESSARY - lab01.py has been turned in.
       <br><b>Deadline for after-lab submission: Tonight at 11:59pm.</b>
