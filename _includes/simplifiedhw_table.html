@@ -4,6 +4,8 @@
   <th class="asn_num"  >num</th>
   <th class="asn_ready">ready?</th>
   <th class="asn_desc" >description</th>
+  <th class="asn_assigned" >assigned</th>
+  <th class="asn_due" >due</th>
 </tr>
 
 {% for hw in site.hw %}
@@ -12,6 +14,8 @@
   <td class="simlifiedhw_num"  ><a href="{{hw.pdfurl}}" data-ajax="false">{{ hw.num }}</a></td>
   <td class="simlifiedhw">{{hw.ready}}</td>
   <td class="simlifiedhw_desc" >{{hw.desc }}</td>
+  <td class="simlifiedhw_assigned" >{{hw.assigned }}</td>
+  <td class="simlifiedhw_due" >{{hw.due }}</td>
 </tr>
 
 {% if hw.last_before %}
