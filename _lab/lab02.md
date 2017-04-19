@@ -118,7 +118,7 @@ substituting your own name(s) and the current date in the proper spots:</p>
      height of the house proportional to its width. <i>Use the
      drawRectangle function</i> to make part of the house - <em>abstraction is good!</em></li>
    </ol>
-   It should work correctly if used as follows:</p>
+   It should work correctly if used as follows:
 <pre>&gt;&gt;&gt; drawHouse(pat, 100)    # a really big house
 &gt;&gt;&gt; drawHouse(pat, 10)     # a tiny house (just 10 pixels wide)</pre>
 <table border="0"><tr>
