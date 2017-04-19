@@ -149,17 +149,17 @@ cd into your cs8/lab02 directory:</p>
 
 <h2>Evaluation and Grading</h2>
 Each student must accomplish the following to earn full credit for this lab:
- <ul>
+<ul>
    <li>lab02.py is saved in original pilot's ~/cs8/lab02/ directory.</li>
    <li>lab02.py contains a working drawRectangle function, evidence of some attempt
-       to write a drawHouse function, and all of the required comments.
+       to write a drawHouse function, and all of the required comments.</li>
    <li>lab02.py has been turned in.
       <br><b>Deadline for after-lab submission: Friday at 11:59pm.</b>
       <br><i>Note that to be eligible for late turn-in with credit, you MUST have attended
           your entire lab period.</i></li>
    <li>If a pair completes the above tasks early, they <em>must</em> work the entire lab
     period by attempting extra challenge problems below.</li>
- </ul>
+</ul>
 
 <hr>
 
