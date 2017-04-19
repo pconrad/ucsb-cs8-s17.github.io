@@ -109,7 +109,7 @@ substituting your own name(s) and the current date in the proper spots:</p>
 </blockquote>
 -->
 <p><b>First switch roles between pilot and navigator if you did not already do that.</b></p>
-<p>Add a function named drawHouse to the lab02.py file according to the following specifications:
+<p>Add a function named drawHouse to the lab02.py file according to the following specifications:</p>
    <ol>
    <li>Add a couple of blank lines after the end of your drawRectangle function definition.</li>
    <li>The new function header must name two parameters: a turtle, and a width.</li>
