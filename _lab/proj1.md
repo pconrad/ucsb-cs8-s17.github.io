@@ -127,7 +127,8 @@ width = 55.8, height = 31.4</pre></li>
 <!-- PART 4-->
 <h2>myText.py</h2>
   	<li>
-	(25 points: string manipulation) This program calls TWO functions that manipulate strings.
+	(25 points: string manipulation) This program calls TWO functions that manipulate strings. Both functions are 
+	run over and over again until the user enters specific outputs to quit (see example below).
   	<p><code>FindWords(lines, word)</code> takes in a group of strings stored together (that is, lines in a <b>list</b>) 
 	and goes through each string (line) in this list and searches for the sub-string "word". If it finds 
 	"word", it prints the entire line, preceded by the line number (these start at 0). </p>
