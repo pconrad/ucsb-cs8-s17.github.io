@@ -2,7 +2,7 @@
 layout: lab
 num: project1
 ready: false
-desc: "Project 1: TBD"
+desc: ""
 assigned: 2017-04-20 08:00:00.00-7
 due: 2017-05-04 23:59:59.00-7
 ---
@@ -114,7 +114,7 @@ width = 55.8, height = 31.4</pre></li>
 </ul>
 
 <!-- PART 4-->
-  <li>(25 points: string manipulation) Write 2 functions that do the following:
+  	<li>(25 points: string manipulation) Write 2 functions that do the following:
   	<p>FindWords(lines, word) takes in a group of lines (called a <b>list</b>) 
 	and goes through each line and searches for the word in string "word". If it finds 
 	the word, it prints the entire line, preceded by the line number (these start at 0).</p>
@@ -134,11 +134,11 @@ width = 55.8, height = 31.4</pre></li>
        		<p>If you modify the last line as <code>print(one, end= " ")</code>, you will print each item 
 			next to the following one on one line with a space character between each one.</p> 
         </li>
-     <li>Here are some sample results from my solution:
-	  <img src="readText.png" width="500">
-     </li>
+     <p>Here are some sample results from my solution:
+	  <img src="readText.png" width="700">
+     </p>
      </ul>
-</li>
+
   <li>Go to CSIL (in person unless you can manage this step remotely without any
       assistance from us). Open a terminal window, <code>cd</code> to the
       <em>same directory as your source code files</em>, then type the following (careful -
