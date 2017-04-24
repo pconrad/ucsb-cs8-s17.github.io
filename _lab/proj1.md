@@ -127,9 +127,9 @@ width = 55.8, height = 31.4</pre></li>
     </li>
     <ul>
         <li>When a list contains multiple values, you can access each individual one with a for-loop, 
-		for example, given a list called <pre>many = ["joe", "mary", "bob", "chincilla"]</pre>, you would do this: 
-			<p><code>for one in many: </p>
-			<p>...   print(one)</p></code>
+		for example, given a list called <code>many = ["joe", "mary", "bob", "chincilla"]</code>, you would do this: 
+			<p><code>for one in many: </code></p>
+			<p><code>...   print(one)</code></p>
 			This will print out each name in the list individually, each on a new line.
        		<p>If you modify the last line as <code>print(one, end= " ")</code>, you will print each item 
 			next to the following one on one line with a space character between each one.</p> 
