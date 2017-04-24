@@ -99,7 +99,7 @@ width = 55.8, height = 31.4</pre></li>
   an online source. You cannot recursively call the function and can only use <code>if/else</code> and <code>for</code> statements.</p>
 
 <ul type="circle">
-     <dl><dd><code>fibo(n)</code> - where n is the number of terms in the series.</dd></dl>
+     <code>fibo(n)</code> - where n is the number of terms in the series.
 	 <p>Examples:</p>
      <li>If n is equal to 1, then just include the first term in the equation: <code>(1)</code>.
          If n is equal to 2, then just include the first and the second term in the equation: <code>(1 1)</code>.
