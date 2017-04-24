@@ -31,6 +31,7 @@ This is IMPORTANT, and it applies to all future programs too!
 
 <hr>
 <!-- PART 1-->
+<h2>sphere.py</h2>
   <li>(25 points: some calculations) Add the following four functions to sphere.py (three of them are taken from
       Exercises 2.1, 2.2 and 2.3 on page 81 of the text, and the other is a natural addition):
     <ol type="a">
@@ -67,6 +68,7 @@ sphere surface area: 1256.6</pre></li>
 
 <hr>
 <!-- PART 2-->
+<h2>screensize.py</h2>
   <li>(25 points: slightly more complicated calculations) Add two functions to screensize.py to calculate the height and width of a display
       screen, given the diagonal screen size (D) and the aspect ratio (W:H), using these formulas:
       <blockquote><table border="1" cellpadding="5"><tr>
@@ -88,6 +90,7 @@ width = 55.8, height = 31.4</pre></li>
 
 <hr>
 <!-- PART 3-->
+<h2>fibonacci.py</h2>
   <li>(25 points: accumulator pattern) The numbers in the Fibonacci Series are characterized by the fact that 
   every number after the first two is the sum of the two preceding ones, so the sequence starts with a 0 and 1 
   and continues on. This gives us this series of numbers: 0 1 1 2 3 5 8 13 21 34 55… etc…
@@ -120,6 +123,7 @@ width = 55.8, height = 31.4</pre></li>
 
 <hr>
 <!-- PART 4-->
+<h2>myText.py</h2>
   	<li>(25 points: string manipulation) Write 2 functions that do the following:
   	<p>FindWords(lines, word) takes in a group of lines (called a <b>list</b>) 
 	and goes through each line and searches for the word in string "word". If it finds 
@@ -144,6 +148,7 @@ width = 55.8, height = 31.4</pre></li>
 	 <p><img src="readText.png" width="800"></p>
      </ul>
 
+<hr>
   <li>Go to CSIL (in person unless you can manage this step remotely without any
       assistance from us). Open a terminal window, <code>cd</code> to the
       <em>same directory as your source code files</em>, then type the following (careful -
