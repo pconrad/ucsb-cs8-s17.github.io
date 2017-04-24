@@ -80,7 +80,8 @@ sphere surface area: 1256.6</pre></li>
         <li><code>width(W, H, screenHeight)</code> - where W and H as above, and screenHeight is the result of
            the height function.</li>
       </ol>
-      When done, your results should match the following sample runs from our solution.
+
+      <p>When done, your results should match the following sample runs from our solution.</p>
       <pre>-bash-4.2$ <b>python3 screensize.py</b> 
 enter D, W, H (separated by commas): <b>51, 4, 3</b>
 width = 40.8, height = 30.6
@@ -92,15 +93,16 @@ width = 55.8, height = 31.4</pre></li>
 <!-- PART 3-->
 <h2>fibonacci.py</h2>
   <li>(25 points: accumulator pattern) The numbers in the Fibonacci Series are characterized by the fact that 
-  every number after the first two is the sum of the two preceding ones, so the sequence starts with a 0 and 1 
-  and continues on. This gives us this series of numbers: 0 1 1 2 3 5 8 13 21 34 55… etc…
-  Write a Python program that prints out the first n numbers in the Fibonacci Series. Do not copy a solution from 
-  an online source. You cannot recursively call the function and can only use if/else and for statements.
-     <dl><dd><code>fibo(n)</code> - where n is the number of terms in the series.</dd></dl>
+  every number after the first two is the sum of the two preceding ones, so the sequence starts with a 1 and 1 
+  and continues on. This gives us this series of numbers: 1 1 2 3 5 8 13 21 34 55… etc…
+  <p>Write a Python program that prints out the first n numbers in the Fibonacci Series. Do not copy a solution from 
+  an online source. You cannot recursively call the function and can only use <code>if/else</code> and <code>for</code> statements.</p>
 
 <ul type="circle">
-     <li>If n is equal to 0, then just include the first term in the equation: <code>(1)</code>.
-         If n is equal to 1, then just include the first and the second term in the equation: <code>(1 1)</code>.
+     <dl><dd><code>fibo(n)</code> - where n is the number of terms in the series.</dd></dl>
+	 <p>Examples:</p>
+     <li>If n is equal to 1, then just include the first term in the equation: <code>(1)</code>.
+         If n is equal to 2, then just include the first and the second term in the equation: <code>(1 1)</code>.
          If n is equal to 6, include the first six terms: <code>(1 1 2 3 5 8)</code>
      </li>
      <li>When done, your results should match the following sample runs from our solution.
