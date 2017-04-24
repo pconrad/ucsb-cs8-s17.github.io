@@ -126,27 +126,42 @@ width = 55.8, height = 31.4</pre></li>
 <hr>
 <!-- PART 4-->
 <h2>myText.py</h2>
-  	<li>(25 points: string manipulation) Write 2 functions that do the following:
-  	<p>FindWords(lines, word) takes in a group of lines (called a <b>list</b>) 
-	and goes through each line and searches for the word in string "word". If it finds 
-	the word, it prints the entire line, preceded by the line number (these start at 0).</p>
+  	<li>
+	(25 points: string manipulation) This program calls TWO functions that manipulate strings.
+  	<p><code>FindWords(lines, word)</code> takes in a group of strings stored together (that is, lines in a <b>list</b>) 
+	and goes through each string (line) in this list and searches for the sub-string "word". If it finds 
+	"word", it prints the entire line, preceded by the line number (these start at 0). The line number 
+	is the position of the line in the list. So for example, if the list has 125 lines in it and the one indexed 
+	number 103 is "found" by the function and is "Quoth the Raven \"Nevermore\"", then the function would output:</p>
+	<pre>
+	103             Quoth the Raven “Nevermore.” 
+	</pre>
 	
-	<p>PrintBackwards(lines, n) takes in that same group of lines and asks the user 
-	to pick a line number and then proceeds to print that line backwards.</p>
+	<p><code>PrintBackwards(lines, n)</code> takes in that same group of lines and asks the user 
+	to pick a line number and then proceeds to print that line backwards. Using the same example as above, if 
+	the user answer to the question is "103" (as in, line 103), then that line is printed backwards, like so:</p>
+	<pre>
+	".eromreveN" nevaR eht htouQ
+	</pre>
 
 	<p>Both functions are to be part of the program readText.py, which reads in the entire 
-	poem, "The Raven" by Edgar Allan Poe, saved in the file "theRaven.txt".</p>
+	poem, "The Raven" by Edgar Allan Poe, which is saved in the file "theRaven.txt" (the reading of the 
+	file is done for you in the main program).</p>
     </li>
+
     <ul>
-        <li>When a list contains multiple values, you can access each individual one with a for-loop, 
-		for example, given a list called <code>many = ["joe", "mary", "bob", "chincilla"]</code>, you would do this: 
-			<p><code>for one in many: </code></p>
+        <li>NOTE: When a list contains multiple values, you can access each individual one with a for-loop, 
+		for example, given a list called <code>names = ["joe", "mary", "bob", "chincilla"]</code>, you would do this: 
+			<p><code>for one in names: </code></p>
 			<p><code>...   print(one)</code></p>
 			This will print out each name in the list individually, each on a new line.
        		<p>If you modify the last line as <code>print(one, end= " ")</code>, you will print each item 
-			next to the following one on one line with a space character between each one.</p> 
+			next to the following one on one line with a space character between each one. If you modify it 
+			as <code>print(one, end= "")</code>, you will print each item immediately next to the other with 
+			no space character between them.</p>
         </li>
-     <p>Here are some sample results from my solution:</p>
+
+     <p>When done, your results should match the following sample runs from our solution.</p>
 	 <p><img src="readText.png" width="800"></p>
      </ul>
 
