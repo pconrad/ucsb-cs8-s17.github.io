@@ -101,10 +101,10 @@ width = 55.8, height = 31.4</pre></li>
 <ul type="circle">
      <code>fibo(n)</code> - where n is the number of terms in the series.
 	 <p>Examples:</p>
-     <li>If n is equal to 1, then just include the first term in the equation: <code>(1)</code>.
-         If n is equal to 2, then just include the first and the second term in the equation: <code>(1 1)</code>.
-         If n is equal to 6, include the first six terms: <code>(1 1 2 3 5 8)</code>
-     </li>
+     <li>If n is equal to 1, then just include the first term in the equation: <code>(1)</code>.</li>
+     <li>If n is equal to 2, then just include the first and the second term in the equation: <code>(1 1)</code>.</li>
+     <li>If n is equal to 6, include the first six terms: <code>(1 1 2 3 5 8)</code></li>
+     
      <li>When done, your results should match the following sample runs from our solution.
      <pre>
 	-bash-4.2$ <strong>python3 fiboncci.py</strong> 
