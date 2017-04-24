@@ -134,9 +134,8 @@ width = 55.8, height = 31.4</pre></li>
        		<p>If you modify the last line as <code>print(one, end= " ")</code>, you will print each item 
 			next to the following one on one line with a space character between each one.</p> 
         </li>
-     <p>Here are some sample results from my solution:
-	  <img src="readText.png" width="700">
-     </p>
+     <p>Here are some sample results from my solution:</p>
+	 <p><img src="readText.png" width="800"></p>
      </ul>
 
   <li>Go to CSIL (in person unless you can manage this step remotely without any
@@ -147,3 +146,4 @@ width = 55.8, height = 31.4</pre></li>
       If you are working with a partner, be sure that <em>both partners names</em> are in the
       comments at the top of all source files.</li>
 </ol>
+</div>
