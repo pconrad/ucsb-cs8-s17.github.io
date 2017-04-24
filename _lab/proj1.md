@@ -130,11 +130,11 @@ width = 55.8, height = 31.4</pre></li>
 	(25 points: string manipulation) This program calls TWO functions that manipulate strings.
   	<p><code>FindWords(lines, word)</code> takes in a group of strings stored together (that is, lines in a <b>list</b>) 
 	and goes through each string (line) in this list and searches for the sub-string "word". If it finds 
-	"word", it prints the entire line, preceded by the line number (these start at 0). The line number 
-	is the position of the line in the list. So for example, if the list has 125 lines in it and the one indexed 
-	number 103 is "found" by the function and is "Quoth the Raven \"Nevermore\"", then the function would output:</p>
+	"word", it prints the entire line, preceded by the line number (these start at 0). </p>
+	<p>The line number is the position of the line in the list. So for example, if the list has 125 lines in it and the one indexed 
+	number 103 is "found" by the function and is "Quoth the Raven "Nevermore"", then the function would output:</p>
 	<pre>
-	103             Quoth the Raven “Nevermore.” 
+	103             Quoth the Raven "Nevermore." 
 	</pre>
 	
 	<p><code>PrintBackwards(lines, n)</code> takes in that same group of lines and asks the user 
@@ -157,9 +157,10 @@ width = 55.8, height = 31.4</pre></li>
 				print(one)
 			</pre>
 			This will print out each name in the list individually, each on a new line.
-       		<p>If you modify the last line as <code>print(one, end= " ")</code>, you will print each item 
-			next to the following one on one line with a space character between each one. If you modify it 
-			as <code>print(one, end= "")</code>, you will print each item immediately next to the other with 
+       		<p>If you modify the last line as <code>print(one, end= " ")</code> (note the space character between 
+			the quotation marks), you will print each item next to the following one on one line with a 
+			space character between each one. If you modify it further as <code>print(one, end= "")</code> (note 
+			the ABSENCE of a space characer between the quotes), you will print each item immediately next to the other with 
 			no space character between them.</p>
         </li>
 
