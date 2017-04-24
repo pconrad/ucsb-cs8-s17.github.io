@@ -28,6 +28,8 @@ if you are working with another student) and the date each program is written.
 This is IMPORTANT, and it applies to all future programs too!
 
 <ol>
+
+<hr>
 <!-- PART 1-->
   <li>(25 points: some calculations) Add the following four functions to sphere.py (three of them are taken from
       Exercises 2.1, 2.2 and 2.3 on page 81 of the text, and the other is a natural addition):
@@ -62,6 +64,8 @@ circle area: 314.2
 sphere volume: 4188.8
 sphere surface area: 1256.6</pre></li>
     </ul>
+
+<hr>
 <!-- PART 2-->
   <li>(25 points: slightly more complicated calculations) Add two functions to screensize.py to calculate the height and width of a display
       screen, given the diagonal screen size (D) and the aspect ratio (W:H), using these formulas:
@@ -82,6 +86,7 @@ width = 40.8, height = 30.6
 enter D, W, H (separated by commas): <b>64, 16, 9</b>
 width = 55.8, height = 31.4</pre></li>
 
+<hr>
 <!-- PART 3-->
   <li>(25 points: accumulator pattern) The numbers in the Fibonacci Series are characterized by the fact that 
   every number after the first two is the sum of the two preceding ones, so the sequence starts with a 0 and 1 
@@ -113,6 +118,7 @@ width = 55.8, height = 31.4</pre></li>
 	</li>
 </ul>
 
+<hr>
 <!-- PART 4-->
   	<li>(25 points: string manipulation) Write 2 functions that do the following:
   	<p>FindWords(lines, word) takes in a group of lines (called a <b>list</b>) 
