@@ -14,10 +14,9 @@ due: 2017-04-28 23:59:59.00-7
 <h2>Goals for this lab</h2>
 
 By the time you have completed this lab, you should be able to:
-<ol>
 <li>Write functions that use what the textbook calls the "Accumulator Pattern"<\li>
 <li>Write functions that get user inputs from standard input devices (i.e. keyboard).<\li>
-</ol>
+
 
 <h2>Step by Step Instructions</h2>
 **Step 0:** Get together with your assigned lab partner.
