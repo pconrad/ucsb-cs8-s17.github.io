@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "Lab03 - Accumulator Functions and User Input"
 assigned: 2017-04-26 08:00:00.00-7
 due: 2017-04-28 23:59:59.00-7
@@ -15,8 +15,8 @@ due: 2017-04-28 23:59:59.00-7
 
 By the time you have completed this lab, you should be able to:
 <ol>
-Write functions that use what the textbook calls the "Accumulator Pattern"
-Write functions that get user inputs from standard input devices (i.e. keyboard).
+<li>Write functions that use what the textbook calls the "Accumulator Pattern"<\li>
+<li>Write functions that get user inputs from standard input devices (i.e. keyboard).<\li>
 </ol>
 
 <h2>Step by Step Instructions</h2>
@@ -104,6 +104,8 @@ What is your age? <b>21</b>
 >>> <b>number + 10</b>
 31
 </pre>
+
+Just as you did with the previous function, skip a blank line (in your lab03.py file), and then type a brief comment, followed by the function header (what will you call this function?)
 
 This program should print a string of text to the terminal before getting each piece of input from the user. A session should look like the following example with possibly different numbers for inputs and the output (so the following is just ONE example of how the program might run):
 <pre>
