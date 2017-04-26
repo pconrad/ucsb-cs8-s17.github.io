@@ -24,7 +24,7 @@ By the time you have completed this lab, you should be able to:
 **Step 0:** Get together with your assigned lab partner.
 
 **Step 1:** Log in, and create a lab03 directory
-Decide which one of you will be the first pilot for this lab, and then log in to the pilot's account and create a directory called lab03 inside his/her cs8 folder. You will work in this account for the rest of the lab, but remember to switch often between pilot and navigator roles during the course of the lab.</p>
+Decide which one of you will be the first pilot for this lab, and then log in to the pilot's account and create a directory called lab03 inside his/her cs8 folder. You will work in this account for the rest of the lab, but remember to switch often between pilot and navigator roles during the course of the lab.
 
 **Step 2:** Bring up IDLE as usual, and open a new window for function definitions
 Start IDLE. Then, select &quot;File-&gt;New Window&quot; and add a comment at the top of this new file like the following (with the proper substitutions of course): 
@@ -152,6 +152,6 @@ Each student must accomplish the following to earn full credit for this lab:
  </ul>
 
 <hr>
- <p>Prepared for Computer Science 8 by Ziad Matni, partly based on an idea by Diana Franklin and Michael Costanzo.</p>
+Prepared for Computer Science 8 by Ziad Matni, partly based on an idea by Diana Franklin and Michael Costanzo.
 
 </div>
