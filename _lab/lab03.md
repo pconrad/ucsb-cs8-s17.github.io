@@ -95,9 +95,17 @@ What is your name? <b>Jimbo</b>
 'Jimbo'
 </pre>
 
-The default for input( ) is that the variable is a string, like 'Jimbo' in the previous example. If the user had entered 33 at the input prompt, then the variable <code>name</code> would now hold '33' as a string (not as a number!) If you want to ensure that the input is accepted as something else, like an integer, then do as this example shows (note how we would modify the input( ) function):
+The default for <b>input( )</b> is that the variable is a string, like <b>name</b> = 'Jimbo' in the previous example. So you can use the variable as you would any string, for example (continuing from the prior example):
 <pre>
->>> <b>number = int(input("What is your age? "))</b>
+>>> <b>len(name)</b>
+5
+>>> <b>name[2]</b>
+'m'
+</pre>
+
+If the user had entered 33 at the input prompt, then the variable <b>name</b> would now hold '33' as a string (not as a number!) If you want to ensure that the input is accepted as something else, like an integer, then do as this example shows (note how we would modify the input( ) function):
+<pre>
+>>> <b>number = int( input("What is your age? ") )</b>
 What is your age? <b>21</b>
 >>> <b>number</b>
 21
