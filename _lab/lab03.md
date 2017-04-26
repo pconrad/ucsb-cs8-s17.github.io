@@ -116,7 +116,7 @@ What is your age? <b>21</b>
 
 Just as you did with the previous function, skip a blank line (in your lab03.py file), and then type a brief comment, followed by the function header (what will you call this function?)
 
-This program should print a string of text to the terminal before getting each piece of input from the user. A session should look like the following example with possibly different numbers for inputs and the output (so the following is just ONE example of how the program might run):
+This function should print a string of text to the terminal before getting each piece of input from the user. A session should look like the following example with possibly different numbers for inputs and the output (so the following is just ONE example of how the function might run):
 <pre>
 Enter number of quarters: <b>4</b>
 Enter number of dimes: <b>12</b>
