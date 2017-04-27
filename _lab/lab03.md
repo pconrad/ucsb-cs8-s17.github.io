@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "Lab03 - Accumulator Functions and User Input"
 assigned: 2017-04-26 08:00:00.00-7
 due: 2017-04-28 23:59:59.00-7
