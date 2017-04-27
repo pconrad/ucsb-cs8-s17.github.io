@@ -164,7 +164,7 @@ In Python, the absolute value of a number is found with the abs function:
 
 <hr>
 <!-- PART 4-->
-<h2>FindWord.py</h2>
+<h2>findWord.py</h2>
   	
 (20 points: string manipulation) This program calls a function (findIt) that manipulates strings. The function is
 run over and over again until the user enters specific outputs to quit.  
@@ -209,7 +209,7 @@ When done, your results should match the following sample runs from our solution
 
 <hr>
 <!-- PART 5-->
-<h2>SecretCode.py</h2>
+<h2>decode.py</h2>
 (20 points: string manipulation)In this last exercise, you are going to read in an external file that contains a 
 coded message and de-code it!
 
