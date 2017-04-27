@@ -8,7 +8,7 @@ due: 2017-05-12 23:59:59.00-7
 ---
 <div markdown="1">
 
-<h1>THIS PROJECT IS NOT YET RELEASED! DO NOT USE! x</h1>
+<h1>THIS PROJECT IS NOT YET RELEASED! DO NOT USE! </h1>
 
 <h1>CS 8, Spring 2016: Programming Project 1</h1>
 <h2>Due: Friday, 5/12 11:59pm</h2>
@@ -71,7 +71,7 @@ sphere surface area: 1256.6
 (20 points: slightly more complicated calculations) Add two functions to screensize.py to calculate the height and width of a display
 screen, given the diagonal screen size (D) and the aspect ratio (W:H), using these formulas:
 
-<img src="heighteq.png">
+<img src="heighteq.png">..................................
 <img src="widtheq.png">
 
 <ol type="a">
