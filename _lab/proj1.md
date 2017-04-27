@@ -179,17 +179,28 @@ The line number is the position of the line in the list. So for example, if the 
 The reading of the external file is done for you in the main FindWord.py program.
     
 NOTE: When a list contains multiple values, you can access each individual one with a for-loop, 
-for example, given a list called <code>names = ["joe", "mary", "bob", "chincilla"]</code>, you would do this: 
+for example, given a list called <code>people = ["joe", "mary", "bob", "chincilla"]</code>, you would do this: 
 <pre>
-for one in names:
-	print(one)
+>>> for one in people:
+	   print(one)
+joe
+mary
+bob
+chinchilla
 </pre>
+
 This will print out each name in the list individually, each on a new line.
 If you modify the last line as <code>print(one, end= " ")</code> (note the space character between 
 the quotation marks), you will print each item next to the following one on one line with a 
-space character between each one. If you modify it further as <code>print(one, end= "")</code> (note 
-the ABSENCE of a space characer between the quotes), you will print each item immediately next to the other with 
-no space character between them.
+space character between each one. 
+<pre>
+>>> for one in people:
+       print(one, end=" ")
+joe mary bob chinchilla >>>
+</pre>
+
+If you modify it further as <code>print(one, end= "")</code> (note the ABSENCE of a space characer between 
+the quotes), you will print each item immediately next to the other with no space character between them.
 
 When done, your results should match the following sample runs from our solution.
 <img src="readText.png" width="800">
