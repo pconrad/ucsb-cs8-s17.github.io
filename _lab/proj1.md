@@ -7,7 +7,8 @@ assigned: 2017-04-27 12:30:00.00-7
 due: 2017-05-12 23:59:59.00-7
 ---
 <div markdown="1">
-<h1>THIS PROJECT IS NOT YET RELEASED! DO NOT USE!</h1>
+
+<h1>THIS PROJECT IS NOT YET RELEASED! DO NOT USE! x</h1>
 
 <h1>CS 8, Spring 2016: Programming Project 1</h1>
 <h2>Due: Friday, 5/12 11:59pm</h2>
@@ -31,43 +32,38 @@ This is IMPORTANT, and it applies to all future programs too!
 <hr>
 <!-- PART 1-->
 <h2>sphere.py</h2>
-  (20 points: some calculations) Add the following four functions to sphere.py (three of them are taken from
-      Exercises 2.1, 2.2 and 2.3 on page 81 of the text, and the other is a natural addition):
+(20 points: some calculations) Add the following four functions to sphere.py (three of them are taken from Exercises 2.1, 2.2 and 2.3 on page 81 of the text, and the other is a natural addition):
 
-    <ol type="a">
-      <code>circumference(r)</code> - to return the circumference of a circle with radius
-          <code>r</code>. [<code>2&pi;r</code>]
-      <code>area(r)</code> - to return the area of a circle with radius <code>r</code>.
-          [<code>&pi;r<sup>2</sup></code>]
-      <code>surface(r)</code> - to return the surface area of a sphere with radius
-          <code>r</code>. [<code>4&pi;r<sup>2</sup></code>]
-      <code>volume(r)</code> - to return the volume of a sphere with radius
-          <code>r</code>. [<code>4&pi;r<sup>3</sup>/3</code>]
-    </ol>
+<ol type="a">
+<code>circumference(r)</code> - to return the circumference of a circle with radius<code>r</code>. [<code>2&pi;r</code>]
+<code>area(r)</code> - to return the area of a circle with radius <code>r</code>. [<code>&pi;r<sup>2</sup></code>]
+<code>surface(r)</code> - to return the surface area of a sphere with radius
+<code>r</code>. [<code>4&pi;r<sup>2</sup></code>]
+<code>volume(r)</code> - to return the volume of a sphere with radius
+<code>r</code>. [<code>4&pi;r<sup>3</sup>/3</code>]
+</ol>
 
-    Notes:
-    <ol>
-      The function headers must <em>exactly match</em> the ones above, or the testing code
-          will not work.
-      Use <code>math.pi</code> (after importing the math module) for the value of &pi; in all of
-          these calculations.
-      We suggest you test them one at a time in the Python shell. When they are all done, you
-          can run the module. Here are two sample runs to which you can compare your results:
-	</ol>
-    <pre>
-	-bash-4.2$ <b>python3 sphere.py</b> 
-	enter radius: <b>2.5</b>
-	circumference: 15.7
-	circle area: 19.6
-	sphere volume: 65.4
-	sphere surface area: 78.5
-	-bash-4.2$ <b>python3 sphere.py</b> 
-	enter radius: <b>10</b>
-	circumference: 62.8
-	circle area: 314.2
-	sphere volume: 4188.8
-	sphere surface area: 1256.6
-	</pre>
+Notes:
+<ol>
+The function headers must <em>exactly match</em> the ones above, or the testing code will not work.
+Use <code>math.pi</code> (after importing the math module) for the value of &pi; in all of these calculations.
+We suggest you test them one at a time in the Python shell. When they are all done, you can run the module. Here are two sample runs to which you can compare your results:
+</ol>
+
+<pre>
+-bash-4.2$ <b>python3 sphere.py</b> 
+enter radius: <b>2.5</b>
+circumference: 15.7
+circle area: 19.6
+sphere volume: 65.4
+sphere surface area: 78.5
+-bash-4.2$ <b>python3 sphere.py</b> 
+enter radius: <b>10</b>
+circumference: 62.8
+circle area: 314.2
+sphere volume: 4188.8
+sphere surface area: 1256.6
+</pre>
 
 <hr>
 <!-- PART 2-->
