@@ -7,6 +7,7 @@ assigned: 2017-04-27 12:30:00.00-7
 due: 2017-05-12 23:59:59.00-7
 ---
 <div markdown="1">
+<h1>THIS PROJECT IS NOT YET RELEASED! DO NOT USE!</h1>
 
 <h1>CS 8, Spring 2016: Programming Project 1</h1>
 <h2>Due: Friday, 5/12 11:59pm</h2>
