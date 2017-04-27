@@ -1,14 +1,12 @@
 ---
 layout: lab
 num: project1
-ready: false
-desc: ""
+ready: true
+desc: "Doing Mathematical Calculations & String Manipulations with Python"
 assigned: 2017-04-27 12:30:00.00-7
 due: 2017-05-12 23:59:59.00-7
 ---
 <div markdown="1">
-
-<h1>THIS PROJECT IS NOT YET RELEASED! DO NOT USE! </h1>
 
 <h1>CS 8, Spring 2016: Programming Project 1</h1>
 <h2>Due: Friday, 5/12 11:59pm</h2>
@@ -221,7 +219,6 @@ Ny,x%ymj%xarj%tqi%ymnsl%ax%~jxyjwia~3
 There's a little black spot on the sun today.
 It's the same old thing as yesterday.
 </pre>
-ZIAD
 
 The Linux command "cat message.txt" means "show me what's in the file message.txt". As you see from the example, the 
 file contains garbled (coded) text. The Python program, decode.py, if working properly, prints out the decoded text.
