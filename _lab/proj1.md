@@ -216,6 +216,7 @@ Finally, it has to print out each line it decodes. See the example below (which 
 -bash-4.2$ cat message.txt
 Ymjwj,x%a%qnyyqj%gqahp%xuty%ts%ymj%xzs%ytia~3
 Ny,x%ymj%xarj%tqi%ymnsl%ax%~jxyjwia~3
+-bash-4.2$ 
 -bash-4.2$ python3 decode.py
 There's a little black spot on the sun today.
 It's the same old thing as yesterday.
