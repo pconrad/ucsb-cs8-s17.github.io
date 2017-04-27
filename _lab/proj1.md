@@ -12,13 +12,15 @@ due: 2017-05-12 23:59:59.00-7
 <h2>Due: Friday, 5/12 11:59pm</h2>
 
 <strong>Before you begin:</strong>
-Read all of Miller/Ranum chapters 1, 2 and 3 and obtain copies of these 5 files:
+Read all of Miller/Ranum chapters 1, 2 and 3 and obtain copies of these 7 files:
 <ol>
 <li>    sphere.py</li>
 <li>    screensize.py</li>
 <li>    fibonacci.py</li>
 <li>    findWord.py</li>
 <li>    decode.py</li>
+<li>    message.txt</li>
+<li>    theRaven.txt</li>
 </ol>
 	
 The files are found on <code>~zmatni/cs8s17/projects/proj1/</code>, and save them in whatever folder you choose to work on this project (presumably <code>~/cs8/proj1/</code>).
