@@ -23,7 +23,7 @@ Read all of Miller/Ranum chapters 1, 2 and 3 and obtain copies of these 7 files:
 <li>    theRaven.txt</li>
 </ol>
 	
-The files are found at <code>http://cs.ucsb.edu/~zmatni/cs8s17/projects/proj1/</code>, and save them in whatever folder you choose to work on this project (presumably <code>~/cs8/proj1/</code>).
+The files are found at <code>[http://cs.ucsb.edu/~zmatni/cs8s17/projects/proj1](http://cs.ucsb.edu/~zmatni/cs8s17/projects/proj1/)</code>, and save them in whatever folder you choose to work on this project (presumably <code>~/cs8/proj1/</code>).
   
 Edit the comments at the beginnings of these files to include your name (and the name of your partner, 
 if you are working with another student) and the date each program is written. 
