@@ -41,7 +41,10 @@ Then, save it under the name lab04.py inside your lab04 directory.
 You have been hired as a programmer! Your mission is to write a program that encrypts a string of text. See Exercise 3.26 on page 108 of the text (rot is short for rotate):
 
 ```
-Encryption often involves the Caesar cipher - named after Julius Caesar, who used the system to encrypt military messages. Many early Internet users also adopted this cipher. Called rot13, the cipher encrypts a message by rotating the plaintext character by 13 positions in the alphabet. For example, "a" becomes "n" and likewise "n" becomes "a". The nice thing about rot13 is that the same function can be used to encrypt and decrypt a message.
+Encryption often involves the Caesar cipher - named after Julius Caesar, who used the system to encrypt military messages. 
+Many early Internet users also adopted this cipher. Called rot13, the cipher encrypts a message by rotating the 
+plaintext character by 13 positions in the alphabet. For example, "a" becomes "n" and likewise "n" becomes "a". 
+The nice thing about rot13 is that the same function can be used to encrypt and decrypt a message.
 ```
 
 Write function rot13 - it takes a message as a parameter, and it returns an encrypted string in which all the characters in the message are rotated by 13 places. You may assume that all characters in the message are lower case letters (no upper case letters, spaces, digits or anything else). Here is a skeleton of the function. We have initialized an important variable, and given in-line comments to help you out.
