@@ -124,10 +124,7 @@ enter number of terms: <b>1</b>
 1
 -bash-4.2$ <strong>python3 fibonacci.py</strong>
 enter number of terms: <b>5</b>
-1 1 5 8 13
--bash-4.2$ <strong>python3 fibonacci.py</strong>
-enter number of terms: <b>9</b>
-1 1 5 8 13 21 34 55 89
+1 1 2 3 5 
 </pre>
 
 Test your function thoroughly to be sure it is correct. Verify that both fib(1) and fib(2) return 1, fib(3) returns 2, and so on. You may assume that n will always be greater than 0, but find out what the function returns for 0 or negative values too, and try to understand why it returns what it does in such cases.
