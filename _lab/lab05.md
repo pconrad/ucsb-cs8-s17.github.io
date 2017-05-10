@@ -67,7 +67,7 @@ ListA = [1, 3, 4, 1, 1, 5, 9, 8, 5, 6, 4, 4, 5, 3]
 
 Call your function <b>freqDistVisual()</b>.
 
-What do you see when you apply the function on the above list? Does it conform to the example diagram shown in the textbook (on page xxx)? Take a screenshot of the resulting drawing, save it as "Lab5.Fig1.jpg" (or .png or .gif) and include it with your lab submission.
+What do you see when you apply the function on the above list? Does it conform to the example diagram shown in the textbook (in Figure 4.8 on page 146)? Take a screenshot of the resulting drawing, save it as "Lab5.Fig1.jpg" (or .png or .gif) and include it with your lab submission.
 
 Be ready to demonstrate your function and test cases to a TA.
 
