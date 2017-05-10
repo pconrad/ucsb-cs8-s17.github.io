@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "Lab05 - Lists and Dictionaries"
 assigned: 2017-05-10 08:00:00.00-7
 due: 2017-05-19 23:59:59.00-7
@@ -22,7 +22,7 @@ By the time you have completed this lab, you should be able to:
 **Step 0:** Get together with your assigned lab partner.
 Select whichever partner was pilot first last time to be navigator first this time. This lab's pilot should log in and create a lab05 directory under your cs8 folder. You will work in this account for the rest of the lab. If your partner is more than 5 minutes late, ask the TA to pair you with someone else for this week.
 
-**Step 0:** Log in, and create a lab05 directory
+<b>Log in, and create a lab05 directory</b>.
 Decide which one of you will be the first pilot for this lab, and then log in to the pilot's account and create a directory called lab05 inside his/her cs8 folder. You will work in this account for the rest of the lab, but remember to switch often between pilot and navigator roles during the course of the lab.
 
 **Step 1:** Bring up IDLE as usual, and open a new window for function definitions
