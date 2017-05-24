@@ -41,7 +41,7 @@ Make it so that when you run the module in IDLE, it should immediately instruct 
 
 Execution must proceed as follows:
 
-<ol>
+<ol markdown="1">
 <li>Use the built-in function input to get the filename from the user. Pass the string named prompt to this function.</li>
 
 <li>If the filename does not begin with "http" then assume it is a local file, and open it for reading with the built-in open function. Otherwise import and use the urllib.request.urlopen function to open the web page for reading. The program has to be able to do this automatically.</li>
@@ -72,9 +72,9 @@ print( totalfmt.format(total) )
 
 <strong>File/Page</strong>|<strong>Program Run</strong>
 |--- |---
-|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run
-|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run
-|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/webpagesample.txt">CS8 Home Page run
+|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a>
+|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run</a>
+|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/webpagesample.txt">CS8 Home Page run</a>
 
 <hr>
 Go to CSIL (in person unless you can manage this step remotely without any assistance from us). Open a terminal window, <code>cd</code> to the
