@@ -108,6 +108,7 @@ premes\n', '"She Loves You" - Beatles\n', '"(Love Is Like A) Heat Wave" - Martha
 
 So that you can more neatly demonstrate to the TAs that you have completed your task - and to learn more clearly the difference between a function that returns a result and a function that prints results for the user to see - write a function that takes in a filename and a target string as parameters, calls your *getFileMatches* function, stores the result into a list, and then prints out each element of the list. For example:
 
+```
 >>> filename = "./songs.txt"
 >>> printFileMatches(filename, "We")
 "We Will Rock You" - Queen
@@ -121,12 +122,15 @@ So that you can more neatly demonstrate to the TAs that you have completed your 
 "We're An American Band" - Grand Funk Railroad
 
 "We Gotta Get Out Of This Place" - Animals
+```
 
 Don't worry about printing the extra newline characters that are part of each line. Of course, if that bothers you then you can get rid of the extra lines in more than one way. Let's say a line of the file is stored in a string called line, then any of the following would print just one of the two newline characters:
 
+```
 >>> print(line[:-1])  # prints all except the last character in line
 >>> print(line.strip())  # prints line with no leading/trailing white space
 >>> print(line, end='')  # replaces the usual '\n' at the end with ''
+```
 
 **Step 5:** Using the split() member function for lists
 The data in "songs.txt" are arranged so that each line contains a song title, a separator (" - "), and an artist. The split function can be told to use a different delimiter than space, and in this case it can be told to use " - " as the delimiter to get the two important pieces out of the data. For example, here is the result for the first line:
