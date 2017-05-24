@@ -79,6 +79,7 @@ print( totalfmt.format(total) )
 <li>Fully test your program. Here are sample input files and web pages, and the associated results from our solution. Make sure that your results <em><strong>exactly match these results</strong></em>. Also realize that the graders will probably test other inputs too.</li>
 
 <div markdown="1">
+|--- |---
 <strong>File/Page</strong>|<strong>Program Run</strong>
 |--- |---
 |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a>
