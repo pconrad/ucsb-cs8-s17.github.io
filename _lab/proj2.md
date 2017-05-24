@@ -79,13 +79,15 @@ print( totalfmt.format(total) )
 <li>Fully test your program. Here are sample input files and web pages, and the associated results from our solution. Make sure that your results <em><strong>exactly match these results</strong></em>. Also realize that the graders will probably test other inputs too.</li>
 </ol>
 
-<div markdown="1">
-  |xFile/Page|Program Run
-  |--- |---
-  |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a>
-  |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run</a>
-  |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/webpagesample.txt">CS8 Home Page run</a>
-</div>
+<table>
+<tr><td>File/Page</td><td>Program Run</td></tr>
+<tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a></td>
+<td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a></td></tr>
+<tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a></td><td>
+<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run</a></td></tr>
+<tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17</a></td><td>
+<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/webpagesample.txt">CS8 Home Page run</a></td></tr>
+</table>
 
 <hr>
 Go to CSIL (in person unless you can manage this step remotely without any assistance from us). Open a terminal window, <code>cd</code> to the
