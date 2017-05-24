@@ -77,6 +77,7 @@ print( totalfmt.format(total) )
 </div>
 
 <li>Fully test your program. Here are sample input files and web pages, and the associated results from our solution. Make sure that your results <em><strong>exactly match these results</strong></em>. Also realize that the graders will probably test other inputs too.</li>
+
 </ol>
 
 <table>
@@ -85,9 +86,12 @@ print( totalfmt.format(total) )
 <td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a></td></tr>
 <tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a></td><td>
 <a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run</a></td></tr>
-<tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17</a></td><td>
+<tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17/index.html</a></td><td>
 <a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/webpagesample.txt">CS8 Home Page run</a></td></tr>
 </table>
+
+These files can also be located at:
+<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/">http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/</a>.
 
 <hr>
 Go to CSIL (in person unless you can manage this step remotely without any assistance from us). Open a terminal window, <code>cd</code> to the
