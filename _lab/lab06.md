@@ -2,7 +2,7 @@
 layout: lab
 num: lab06
 ready: true
-desc: "Lab06 - Lists and Dictionaries"
+desc: "Lab06 - File I/O"
 assigned: 2017-05-23 08:00:00.00-7
 due: 2017-05-26 23:59:59.00-7
 ---
@@ -16,8 +16,8 @@ due: 2017-05-26 23:59:59.00-7
 By the time you have completed this lab, you should be able to:
 <ol>
 <li>Read in data from a file</li>
-Match a target string in lines of a file</li>
-Know better the difference between printing and returning a function value</li>
+<li>Match a target string in lines of a file</li>
+<li>Know better the difference between printing and returning a function value</li>
 </ol>
 
 <h2>Step by Step Instructions</h2>
@@ -44,7 +44,8 @@ One thing you might be wondering - how do we get data that populate lists? We do
 <strong>Step 2a: Copy over the file for reading into your working lab06 directory</strong>
 Copy the text file from this URL address over to your lab06 directory (ask your lab TA if you are not sure how to do this)
 
-http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt
+<em>[http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt]</em>
+(http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt)
 
 <strong>Step 2b: Open the file for reading</strong>
 
