@@ -8,6 +8,8 @@ due: 2017-06-06 23:59:59.00-7
 ---
 <div markdown="1">
 
+<h1> NOT READY! DO NOT USE YET!</h1>
+
 <h1>CS 8, Spring 2017: Programming Project 2</h1>
 <h2>Due: Friday, 6/2 11:59pm</h2>
 
@@ -52,29 +54,37 @@ Execution must proceed as follows:
 
 <li>Use the string named <strong>itemfmt</strong> to print each interior row of the table in the proper format. For example, if c is a character, and ccount is its count, then print that row of the table as follows:</li>
 
+<div markdown="1">
 ```py
 print( itemfmt.format(c, ccount) )
 ```
+</div>
 
 <li>If the character being printed is one of the white space characters in the dictionary named <strong>whitespace</strong>, then print its description instead of the character itself. For example:</li>
 
+<div markdown="1">
 ```py
 print( itemfmt.format(whiteSpace[c], ccount) )
 ```
+</div>
 
 <li>Use the string named <strong>totalfmt</strong> to properly print the total character count. If this count is named <strong>total</strong>, for example:</li>
 
+<div markdown="1">
 ```py
 print( totalfmt.format(total) )
 ```
+</div>
 
 <li>Fully test your program. Here are sample input files and web pages, and the associated results from our solution. Make sure that your results <em><strong>exactly match these results</strong></em>. Also realize that the graders will probably test other inputs too.</li>
 
+<div markdown="1">
 <strong>File/Page</strong>|<strong>Program Run</strong>
 |--- |---
 |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a>
 |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run</a>
 |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17">http://cs.ucsb.edu/~zmatni/cs8s17</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/webpagesample.txt">CS8 Home Page run</a>
+</div>
 
 <hr>
 Go to CSIL (in person unless you can manage this step remotely without any assistance from us). Open a terminal window, <code>cd</code> to the
