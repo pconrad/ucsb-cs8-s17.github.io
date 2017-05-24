@@ -44,7 +44,7 @@ One thing you might be wondering - how do we get data that populate lists? We do
 <strong>Step 2a: Copy over the file for reading into your working lab06 directory</strong>
 Copy the text file from this URL address over to your lab06 directory (ask your lab TA if you are not sure how to do this)
 
-<em><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt">http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt</a></em>
+<em><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt" target="_blank">http://www.cs.ucsb.edu/~zmatni/cs8s17/lab6/songs.txt</a></em>
 
 <strong>Step 2b: Open the file for reading</strong>
 
