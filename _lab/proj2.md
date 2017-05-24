@@ -77,6 +77,7 @@ print( totalfmt.format(total) )
 </div>
 
 <li>Fully test your program. Here are sample input files and web pages, and the associated results from our solution. Make sure that your results <em><strong>exactly match these results</strong></em>. Also realize that the graders will probably test other inputs too.</li>
+</ol>
 
 <div markdown="1">
 |File/Page|Program Run|
