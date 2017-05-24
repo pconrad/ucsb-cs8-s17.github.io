@@ -80,7 +80,7 @@ print( totalfmt.format(total) )
 
 <div markdown="1">
 |--- |---|
-<strong>File/Page</strong>|<strong>Program Run</strong>|
+|<strong>File/Page</strong>|<strong>Program Run</strong>|
 |--- |---|
 |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a>|
 |<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a>|<a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longersample.txt">longer.txt run</a>|
