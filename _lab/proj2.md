@@ -8,8 +8,6 @@ due: 2017-06-06 23:59:59.00-7
 ---
 <div markdown="1">
 
-<h1> NOT READY! DO NOT USE YET!</h1>
-
 <h1>CS 8, Spring 2017: Programming Project 2</h1>
 <h2>Due: Friday, 6/2 11:59pm</h2>
 
@@ -81,7 +79,7 @@ print( totalfmt.format(total) )
 </ol>
 
 <table>
-<tr><td>File/Page</td><td>Program Run</td></tr>
+<tr><td><strong>File/Page</strong></td><td><strong>Program Run</strong></td></tr>
 <tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/short.txt">short.txt</a></td>
 <td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/shortsample.txt">short.txt run</a></td></tr>
 <tr><td><a href="http://www.cs.ucsb.edu/~zmatni/cs8s17/projects/proj2/longer.txt">longer.txt</a></td><td>
