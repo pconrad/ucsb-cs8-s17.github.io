@@ -9,7 +9,7 @@ due: 2017-06-06 23:59:59.00-7
 <div markdown="1">
 
 <h1>CS 8, Spring 2017: Programming Project 2</h1>
-<h2>Due: Friday, 6/2 11:59pm</h2>
+<h2>Due: Tuesday, 6/6 11:59pm</h2>
 
 It is optional, but highly recommended, to work with a partner on this project. 
 
