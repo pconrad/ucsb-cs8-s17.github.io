@@ -48,7 +48,7 @@ Execution must proceed as follows:
 
 <li>Read all of the text in the file or web page, and count each different character in it. Ignore the case of characters (e.g., count both 'A' and 'a' as 'a').</li>
 
-<li>Print the string named <strong>titles</strong>. Then print the table of characters and their counts in ASCII order, and print the total character count at the bottom.</li>
+<li>Print the string named <strong>titles</strong>. Then print the table of characters and their counts in ASCII order, and print the total character count at the bottom. Hint: There are 128 characters in the ASCII code, starting from 0 and ending at 127.</li>
 
 <li>Use the string named <strong>itemfmt</strong> to print each interior row of the table in the proper format. For example, if c is a character, and ccount is its count, then print that row of the table as follows:</li>
 
